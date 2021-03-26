@@ -3,6 +3,18 @@
 
 This repository hosts a library for the first course of the [Scala MOOC](https://www.coursera.org/specializations/scala) ("Functional Programming Principles in Scala").
 
+
+## Author
+
+sandeep kichannagari
+
+sandeep kichannagari
+
+sandeep kichannagari
+
+sandeep kichannagari
+
+
 ## Run Locally
 
 - Clone this repository, compile and publish the project:
@@ -52,6 +64,9 @@ Scala Exercises is available at [scala-exercises.org](https://scala-exercises.or
 
 Contributions welcome! Please join our [Gitter channel](https://gitter.im/scala-exercises/scala-exercises)
 to get involved, or visit our [GitHub site](https://github.com/scala-exercises).
+
+sandeep kichannagari
+
 
 ## License
 
